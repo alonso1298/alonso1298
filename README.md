@@ -1,4 +1,4 @@
-### Hello, I'm Alonso Sgrero! ![Gift de un codigo] /rediseno.gift
+### Hello, I'm Alonso Sgrero! !Alt text](images/rediseno.gif)
 
 <!--
 **alonso1298/alonso1298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
