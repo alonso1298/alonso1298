@@ -1,6 +1,5 @@
 ### Hello, I'm Alonso Sagrero! 👋🏻👨🏻‍💻
 
-![Portada](https://github.com/alonso1298/alonso1298/assets/55163474/138b9d44-8977-4a28-a007-7c3fe09e35da)
 
 <!--
 **alonso1298/alonso1298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
