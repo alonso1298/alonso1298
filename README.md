@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi! I'm Alonso Sagrero 👋🏻👨🏻‍💻 <a> <br> <img aling="left" width="100" height="100" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
+<h1 align="center">¡Hi! I'm Alonso Sagrero 👋🏻👨🏻‍💻 <a> <br> <img aling="left" width="100" height="100" src="https://github.com/alonso1298/alonso1298/issues/1#issue-2382073984" /></a></h1>
 
 <h3 align="center"> Computer Engineering Student UNAM </h3>
 <p> <li> You can find school and personal projects 📚 <p>
