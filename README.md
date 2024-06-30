@@ -8,7 +8,7 @@
 
 
 ## 📱 Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([in/alonso-sagrero-granados-54982228a](https://www.linkedin.com/in/alonso-sagrero-granados-54982228a/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sagrero-granados-54982228a/)
 
 ## 🛠 Skills
   <p>Programming Languages</p>
