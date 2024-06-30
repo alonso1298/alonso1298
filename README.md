@@ -8,8 +8,7 @@
 
 
 ## 📱 Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/ana-fernanda-guti%C3%A9rrez-villanueva/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ana_gvillanueva)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](in/alonso-sagrero-granados-54982228a)
 
 ## 🛠 Skills
   <p>Programming Languages</p>
