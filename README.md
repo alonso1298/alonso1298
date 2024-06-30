@@ -3,7 +3,7 @@
 <h3 align="center"> Computer Engineering Student UNAM </h3>
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm interested in frontend, backend and databases technologies 💻<p>
-<p> <li> You can send me an email here: alonsosagrero18@aragon.unam.mx 💌 <p>
+<p> <li> You can send me an email here: alonsosagrero18@aragon.unam.mx ✉️<p>
 
 
 ## 📱 Connect with me
