@@ -1,6 +1,6 @@
 <h1 align="center">¡Hi! I'm Alonso Sagrero 👋🏻👨🏻‍💻 <a> <br> <img aling="left" width="100" src="hk.gif" /></a></h1>
 
-<h3 align="center"> Computer Engineering Student UNAM </h3>
+<h3 align="center"> Computer Engineering | UNAM </h3>
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm interested in frontend, backend and databases technologies 💻<p>
 <p> <li> You can send me an email here: alonsosagrero18@aragon.unam.mx ✉️<p>
