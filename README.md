@@ -21,6 +21,9 @@
 <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php" width="60" height="40"/>
 </a>
+<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="60" height="40"/>
+</a>
 
   <p>Frontend Development</p>
   
