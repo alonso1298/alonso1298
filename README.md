@@ -21,16 +21,28 @@
 
 ## 🛠️ Skills
  ### 💻 Programming Languages
-![Java](https://cdn.worldvectorlogo.com/logos/java.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40" height="30"/>
+</p>
 
 ### 🌐 Frontend Development
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-![Sass](https://sass-lang.com/assets/img/logos/logo.svg)
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+  <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="Sass" width="30" height="30"/>
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="30"/>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30" height="30"/>
+</p>
 
 ## 🚀 Featured Projects
 
