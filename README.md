@@ -46,8 +46,7 @@
 
 ## 🚀 Featured Projects
 
-- 🎬 [ScreenMatch-Web](https://github.com/alonso1298/ScreenMatch-Web): Full-stack web application with Spring Boot and frontend technologies.
-- 💸 [Conversor-De-Monedas](https://github.com/alonso1298/Conversor-De-Monedas): Currency converter using Java and API consumption.
+- 📝 [Voll-Med-API-REST](https://github.com/alonso1298/Voll-Med-API-REST.git): Full-stack web application with Spring Boot and frontend technologies.
 
 ## 📖 Currently Learning
 - Spring Framework
