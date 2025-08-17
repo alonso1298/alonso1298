@@ -46,7 +46,7 @@
 
 ## 🚀 Featured Projects
 
-- 📝 [Voll-Med-API-REST](https://github.com/alonso1298/Voll-Med-API-REST.git): Full-stack web application with Spring Boot and frontend technologies.
+- 📝 [Voll-Med-API-REST](https://github.com/alonso1298/Voll-Med-API-REST.git): Back-end web application with Spring Boot and Spring Security.
 
 ## 📖 Currently Learning
 - Spring Framework
