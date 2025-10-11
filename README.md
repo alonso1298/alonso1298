@@ -46,11 +46,10 @@
 
 ## 🚀 Featured Projects
 
-- 📝 [Voll-Med-API-REST](https://github.com/alonso1298/Voll-Med-API-REST.git): Back-end web application with Spring Boot and Spring Security.
+- 📝 [Diplomado de desarollo de sistemas con tecnologia Java](https://github.com/alonso1298/DiplomadoDesarolloDeSistemasConTecnologiaJava.git): Back-End
 
 ## 📖 Currently Learning
 - Spring Framework
-- React.js
 - REST APIs
 
 <p align="center">
