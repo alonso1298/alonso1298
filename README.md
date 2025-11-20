@@ -47,6 +47,7 @@
 ## 🚀 Featured Projects
 
 - 📝 [Diplomado de desarollo de sistemas con tecnologia Java](https://github.com/alonso1298/DiplomadoDesarolloDeSistemasConTecnologiaJava.git): Back-End & Spring Boot
+- 🎓 [Asesorias Academicas Universitarias](https://github.com/alonso1298/Asesorias-Academicas-Universitarias.git): Back-End, Spring Boot, Hibernate & Lombok
 
 ## 📖 Currently Learning
 - Spring Framework
