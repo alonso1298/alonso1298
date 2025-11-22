@@ -40,9 +40,6 @@
 ### 🧩 Backend Development
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40" height="30"/>
 </p>
 
 ### 🗄️ Databases
